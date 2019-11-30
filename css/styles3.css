@@ -1,0 +1,51 @@
+body{
+  margin-top: auto;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  background-color:skyblue;
+  margin-bottom: auto;
+}
+h3{
+  font-size: 6rem;
+  padding: 0  410px;
+  font-family: 'Allura', cursive;
+  color: #f5f5f5;
+  margin-bottom:40px;
+}
+.top{
+  padding-top: 50px;
+  margin-bottom: auto;
+}
+.edutable{
+  margin-left: 400px;
+}
+.leftcloud{
+  position:absolute;
+  left:250px;
+  top:200px;
+}
+
+.rightcloud{
+  position:absolute;
+  right:250px;
+  top: 50px;
+}
+.mountain{
+  margin-bottom: auto;
+  width:60%;
+  padding-top: 80px;
+}
+.left1cloud{
+  position:absolute;
+  left:440px;
+  top:600px;
+}
+.right1cloud{
+  position:absolute;
+  right:300px;
+  top: 400px;
+}
+.skill-table{
+  margin:auto;
+}
