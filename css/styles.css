@@ -46,34 +46,29 @@ a:hover{
 .main{
   font-size: 1.5rem;
   color: #f5f5f5;
+  margin-bottom: 0;
 }
 
 .top{
   background-color: skyblue;
-  position: relative;
-  padding-top: 20px;
 }
 
 .leftcloud{
-  position:absolute;
-  left:230px;
-  top:300px;
-  margin:10px 100px 70px 30px;
+  margin:5px 800px auto 30px;
 }
 
 .rightcloud{
-  position:absolute;
-  right:320px;
-  top: 70px;
-  margin:10px 10px 10px 600px;
+  margin:0 100px auto 700px;
+  padding-top: 50px;
 }
 
 .flycarpet{
   width:19%;
-  margin-top: 35px;
+  margin:0 100px 0 100px;
+  padding-bottom: 10px;
 }
 .mountain{
-  width:50%;
+  margin:5px 5px 50px 500px;
 }
 
 .hellopic{
@@ -186,5 +181,3 @@ a:hover{
   font-family: 'Montserrat', sans-serif;
   font-size: 0.75rem;
 }
-
-
